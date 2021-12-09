@@ -1,1 +1,0 @@
-# angular-primeng-crud-app
